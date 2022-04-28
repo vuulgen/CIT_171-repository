@@ -8,4 +8,6 @@
 
 `Docker run stedi-content -p 8080:80`
 
+`dat sum`
+
 Then open http://localhost:8080
